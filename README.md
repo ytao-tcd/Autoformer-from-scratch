@@ -1,4 +1,4 @@
-# Autoformer-Manual-Reproduction
+# Autoformer from scratch
 
 This repository contains a manual reproduction of the core functions of the Autoformer model, as introduced in the paper "Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting" by Wu et al. This work was undertaken in July 2021, after the paper's publication but before the release of the official source code. The purpose of this implementation is to provide an early reference and a deeper understanding of the model's architecture for the community.
 
